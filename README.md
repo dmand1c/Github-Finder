@@ -21,8 +21,8 @@ below.
 ### Configure app
 
 This app is using Github's api so you want to configure github client id and github client secret in your .env file as:
-- GITHUB_FINDER_GITHUB_CLIENT_ID = 'your_github_client_id_here'
-- GITHUB_FINDER_GITHUB_CLIENT_SECRET = 'your_github_client_secret_here'
+-GITHUB_FINDER_GITHUB_CLIENT_ID = 'your_github_client_id_here'
+-GITHUB_FINDER_GITHUB_CLIENT_SECRET = 'your_github_client_secret_here'
 
 ## Start & watch
 
